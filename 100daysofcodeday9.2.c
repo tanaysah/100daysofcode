@@ -1,7 +1,7 @@
 //day 9.2- 100 days of code
 //wap to to assign grades based on a percentage
 
-
+//tanaysah
 
 #include <stdio.h>
 
@@ -64,3 +64,4 @@ int main() {
 
     return 0;
 }
+
